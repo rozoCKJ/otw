@@ -1,0 +1,4 @@
+ssh -l bandit0 bandit.labs.overthewire.org -p2220
+password: bandit0
+
+//use man ssh to learn more about ssh functionality
