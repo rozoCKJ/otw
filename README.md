@@ -1,2 +1,2 @@
-# otw
-overthewire walkthru
+# OverTheWire
+Bandit walk through write ups
